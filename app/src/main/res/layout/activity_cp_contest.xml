@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CP_contest"
+    android:background="@drawable/background3"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:text="CODEFORCE"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:id="@+id/codeforceid">
+
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:text="CODECHEF"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:id="@+id/codechefid">
+
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:text="HACKERRANK"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:id="@+id/hackerrankid">
+
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:text="HACKEREARTH"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:id="@+id/hackerearthid">
+
+    </Button>
+
+
+</LinearLayout>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".playlist_list">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:id="@+id/basicid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Basic of DS"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/arrayid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Array"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/stringid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="String"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/pointerid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Pointer"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/DMAid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Dynamic Memory Allocation"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/stlid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="STL"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/serachingid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Searching And sorting"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/recursionid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Recursion"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/backtrackingid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Backtracking"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+
+            <TextView
+                android:id="@+id/LLid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="LinkedList"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/stackid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Stack"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/queueid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Queue"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/heapid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Heap"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+
+            <TextView
+                android:id="@+id/BTid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Binary Tree"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+
+
+            <TextView
+                android:id="@+id/dpid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="DP"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/graphid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Graph"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+            <TextView
+                android:id="@+id/greedyid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Greedy"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="con_pass" type="id"/>
+
+
+    <item name="pass" type="id"/>
+</resources>
