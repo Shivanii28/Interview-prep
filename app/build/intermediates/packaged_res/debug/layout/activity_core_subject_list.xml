@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".core_subject_list"
+    android:orientation="vertical"
+    android:background="@drawable/background3">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DBMS"
+        android:textStyle="bold"
+        android:id="@+id/dbmsid"
+        android:textColor="@color/white"
+        android:layout_marginTop="170dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Computer Network"
+        android:textStyle="bold"
+        android:id="@+id/CNid"
+        android:textColor="@color/white"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OOPs"
+        android:id="@+id/oopsid"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Operating System"
+        android:id="@+id/osid"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+
+        />
+</LinearLayout>

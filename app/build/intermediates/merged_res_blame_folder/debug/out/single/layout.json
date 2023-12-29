@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_cp_contest_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_contest_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_theory_details.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_theory_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_ds_course.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_ds_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_project_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_project_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_core_subject_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_core_subject_list.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-34:/layout/activity_project_list.xml",
+        "source": "com.example.myapplication.app-main-37:/layout/activity_project_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_cp_contest.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_contest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_sheet_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_sheet_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_placement_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_placement_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_contest_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_contest_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_playlist_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_playlist_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_ds.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_ds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-34:\\layout\\activity_cp_list.xml",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_list.xml"
+    }
+]

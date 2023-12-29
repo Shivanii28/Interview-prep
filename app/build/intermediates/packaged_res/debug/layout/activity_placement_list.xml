@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".placement_list"
+    android:background="@drawable/background3"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Company-wise Que"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginTop="190dp"
+        android:id="@+id/c_wiseid"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="topic-wise Que"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+
+        android:id="@+id/t_wiseid"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Most asked Que"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+
+        android:id="@+id/mostaskid"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interview Experience"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+
+        android:id="@+id/interviewexpid"/>
+</LinearLayout>

@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_contest1.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\contest1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_core.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\core.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_theory_details.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_theory_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_course1.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\course1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_background3.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_blueandpurple.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\blueandpurple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_sheet.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\sheet.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_placement_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_placement_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_ai.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\ai.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_custom_edit.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\custom_edit.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_striver.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\striver.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_android.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_phthon.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\phthon.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_coresub.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\coresub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_coresubject.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\coresubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_web.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\web.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_contest2.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\contest2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_algoproject.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\algoproject.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_gfg2.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\gfg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_sheet_backgr.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\sheet_backgr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_project_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_project_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_cp_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_placement.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\placement.jpeg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_ideaimg.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\ideaimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_cp.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\cp.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_sheet_bach.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\sheet_bach.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_ml.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\ml.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_playlist_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_playlist_list.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_contest4.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\contest4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_google1.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\google1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_background5.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\background5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_cp_contest_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_contest_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_core_subject_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_core_subject_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_course2.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\course2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_cp_contest.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_cp_contest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_background1.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\background1.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_algoiii.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\algoiii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_course3.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\course3.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_apna_college.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\apna_college.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_ds.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_ds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_background4.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\background4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_dsaimg.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\dsaimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_lovebabbar.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\lovebabbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_gfg1.jpeg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\gfg1.jpeg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_contest_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_contest_list.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_youtube1.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\youtube1.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_youtube2.jpg.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\youtube2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\drawable_java.png.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\drawable\\java.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_ds_course.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_ds_course.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-merged_res-35:\\layout_activity_sheet_list.xml.flat",
+        "source": "C:\\Users\\Shivani\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-37:\\layout\\activity_sheet_list.xml"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background3"
+    tools:context=".DS_Course">
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Theory"
+        android:layout_marginTop="250dp"
+
+        android:textStyle="italic"
+        android:id="@+id/theoryid"
+        android:textColor="@color/white"
+
+       >
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interview Exp"
+
+        android:textStyle="italic"
+        android:id="@+id/interviewqueid"
+        android:textColor="@color/white">
+
+
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Playlist"
+
+        android:textStyle="italic"
+        android:id="@+id/playlistid"
+        android:textColor="@color/white">
+
+
+    </Button>
+
+</LinearLayout>
